@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Compile1",
+      "setup": "",
+      "run": "javac -d . src/MyRunnable.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Run1",
+      "setup": "",
+      "run": "java MyRunnable",
+      "input": "15\r\n20",
+      "output": "20",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
