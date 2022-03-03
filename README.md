@@ -2,7 +2,7 @@
 1. Matric Number: 269509
 2. Name: Tan Jia Earn
 
-   ![photo1](https://github.com/jiaearn/STIW3054-RealTimeProgramming-Tutorial2/blob/main/images/earn.JPG)
+   ![photo1](https://github.com/jiaearn/STIW3054-RealTimeProgramming-Tutorial2/blob/master/images/earn.JPG)
 
 ## Instruction:
 
